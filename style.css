@@ -1,0 +1,9 @@
+body { 
+	background: linear-gradient(#e66465, #9198e5, #008fca);
+	font-size: 28px;
+	color: white;
+	 }
+		
+h1 {
+	 text-shadow: 2px 2px 3px #000000;
+}
